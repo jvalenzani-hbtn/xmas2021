@@ -6,8 +6,9 @@ From: Holberton MVD Staff
 
 - Clone repository
 - Edit tree.txt file and create your own tree.
-  - `*` will be displayed in green
+  - `*` will be displayed in Green
   - `$` will be displayed as random colored `0`
+  - `X` will be displayed in Yellow.
 - Run `xmas.py` and enjoy. :)
 
 ### Example
